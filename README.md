@@ -4,7 +4,7 @@
 <h4 align="center">Middle frontend developer</h3>
 <p align="center">In the 'repositories' tab you can see my projects made using different technologies.</p>
 
-<p align="center">Here are my stacks:</p>
+<p align="center">Here are my tech stacks:</p>
 
 
 <div align="center">
