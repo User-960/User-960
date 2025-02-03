@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ivan-volodin-940801238/" target="_blank">Ivan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ivan-volodin-940801238/" target="_blank">Ivan</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h4 align="center">Frontend developer</h3>
 <p align="center">In the 'repositories' tab you can see my projects made using different technologies.</p>
